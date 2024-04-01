@@ -1,4 +1,9 @@
 ### Olá, eu sou Gabriel Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p>
+  - 📃 Programador a mais de três anos, atuando em projetos principalmente de web.<br>
+  - 📚 Cursando Engenharia de Software FIAP
+</p>
+
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
@@ -35,17 +40,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<!--
-**gabrielfe1202/gabrielfe1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api?username=gabrielfe1202&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--<br>
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=gabrielfe1202&theme=tokyonight&hide_border=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfe1202&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 -->
+
