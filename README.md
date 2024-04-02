@@ -45,7 +45,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+<h3 align="left">Entre em contato:</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfe1202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-578bb5301/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=gabrielfe1202&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 
 <!--<br>
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=gabrielfe1202&theme=tokyonight&hide_border=true)
