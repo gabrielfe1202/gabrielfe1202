@@ -2,7 +2,7 @@
 
 ### Olá, eu sou Gabriel Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <p>
-  - 📃 Programador a mais de três anos, atuando em projetos principalmente de web.<br>
+  - 📃 Programador há mais de três anos, atuando em projetos principalmente de web.<br>
   - 📚 Cursando Engenharia de Software FIAP<br>
   - 📍  São paulo - SP - Brasil
 </p>
