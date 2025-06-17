@@ -36,7 +36,7 @@
 <h3 align="left">Entre em contato:</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfe1202@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-578bb5301/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-flora-carvalheiro-578bb5301/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=gabrielfe1202&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
